@@ -1,0 +1,22 @@
+{
+    "2646": {
+        "hospitalName": "Amreitha hospital",
+        "PatientsCount": "400",
+        "Location": "palakkad"
+    },
+    "3253": {
+        "hospitalName": "Ahalia hospital",
+        "PatientsCount": "500",
+        "Location": "thrissur"
+    },
+    "955639": {
+        "hospitalName": "chinmaya hospital",
+        "PatientsCount": "450",
+        "Location": "kozhikode"
+    },
+    "2233":{
+        "hospitalName": "city hospital",
+        "PatientsCount": "600",
+        "Location": "malappuram"
+    }
+}
